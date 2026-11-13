@@ -11,7 +11,7 @@ Freelance full stack developer since 2020, based in Cherbourg, France, working r
 
 🔶 **Main client**
 
-For 6 years I've been building the software ecosystem of VMI® (formerly Ventilairsec, Volution group): the VMI+ Flutter app that controls ventilation units over Bluetooth, a duct network sizing tool, and the back-office.
+For 6 years I've been building the software ecosystem of VMI® (formerly Ventilairsec, Volution group): the [VMI+](https://play.google.com/store/apps/details?id=com.ventilairsec.ventilairsecinstallateur) Flutter app that controls ventilation units over Bluetooth (10,000+ downloads), a duct network sizing tool, and the back-office.
 
 🔶 **Open source**
 
